@@ -1,4 +1,5 @@
 # CVwork-FashionMnist
+![img](https://github.com/Condor-G/CVwork-FashionMnist/blob/master/images/Figure_1.png)
 ### Introduction
 Four classification methods on the Fashion-MNIST :  BoW , HoG , MLP , CNN. 
 ### Dependency
