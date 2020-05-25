@@ -12,6 +12,6 @@ opencv-contrib-python 3.4.2.17
 Download the dataset from <a href="https://github.com/zalandoresearch/fashion-mnist" target="_blank">(Fashion-MNIST)</a>
 After download is finished, don't **unzip** the zip file, directly put them under Fashion-MNIST/data.
 ### Train
-    python \*_train.py
-    python \*_test.py
+    python *_train.py
+    python *_test.py
 \* is the method name
